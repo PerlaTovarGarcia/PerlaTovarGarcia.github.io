@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Gochi+Hand|Pacifico|Shadows+Into+Light&display=swap');
+img{
+  justify-content: center;
+}
+
+.img1{
+   width: 10%;
+   margin-left: 43%;
+   margin-top: 14%
+}
+
+.h1{
+  font-family: 'Pacifico', cursive;
+  font-size: 600%;
+  color: #52968b;
+  border-color: #52968b;
+  margin-left: 25%;
+
+}
+
+.h2{
+  font-family: 'Pacifico', cursive;
+  font-size: 300%;
+  color: #52968b;
+  margin-left: 38%;
+  margin-top: -5%
+
+}
+
+.img2{
+   width: 3%;
+   height: .5%;
+   margin-left: 48%;
+
+}
