@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.347a36eb.chunk.css",
+    "main.js": "/static/js/main.08e42e30.chunk.js",
+    "main.js.map": "/static/js/main.08e42e30.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.f3898a27.chunk.js": "/static/js/2.f3898a27.chunk.js",
+    "static/js/2.f3898a27.chunk.js.map": "/static/js/2.f3898a27.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.110df664807212ee122c23f1ab7b8c49.js": "/precache-manifest.110df664807212ee122c23f1ab7b8c49.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.347a36eb.chunk.css.map": "/static/css/main.347a36eb.chunk.css.map",
+    "static/media/globos.png": "/static/media/globos.ad87c551.png",
+    "static/media/meketrefe.png": "/static/media/meketrefe.2c52f7c4.png"
+  }
+}
