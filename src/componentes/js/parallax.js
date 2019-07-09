@@ -6,8 +6,10 @@ import Trabajos from'../js/trabajos'
 import Carousel from '../js/imagenes';
 import globos from '../img/globos.png';
 import  cerebro from '../img/01.png';
+import '../css/presentacion.css'
 const { Parallax } = require('react-spring/renderprops-addons.cjs');
 const { ParallaxLayer } = require('react-spring/renderprops-addons.cjs');
+
 
 
 class ParallaxTemplate extends React.Component {
@@ -27,7 +29,7 @@ class ParallaxTemplate extends React.Component {
         </ParallaxLayer>
 
         <ParallaxLayer offset={1.3} speed={-0.2} style={{ pointerEvents: 'none' }}>
-        <img src={globos} style={{ display: 'block', width: '25%', marginLeft: '75%' }} />
+        <img src={globos} style={{ display: 'block'}} className="imagenGlobos"/>
         </ParallaxLayer>
 
         <ParallaxLayer offset={1} speed={0.8} style={{ opacity: 0.1 }}>

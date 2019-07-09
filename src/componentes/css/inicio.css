@@ -366,15 +366,15 @@ body{
 
 @media screen and (max-width:667px) and (orientation:landscape) {
   .img1{
-     width: 35%;
+     width: 45%;
      margin-left: 5%;
-     margin-top: 2%;
+     margin-top: 4%;
 
   }
 
   .h1{
     font-family: 'Pacifico', cursive;
-    font-size: 250%;
+    font-size: 200%;
     color: #52968b;
     border-color: #52968b;
     margin-left: 45%;
@@ -403,27 +403,27 @@ body{
 
 @media screen and (max-width:375px) {
   .img1{
-     width: 60%;
-     margin-left: 21%;
-     margin-top: 18%;
+     width: 50%;
+     margin-left: 26%;
+     margin-top: 10%;
 
   }
 
   .h1{
     font-family: 'Pacifico', cursive;
-    font-size: 250%;
+    font-size: 240%;
     color: #52968b;
     border-color: #52968b;
-    margin-left: 8%;
+    margin-left: 5%;
     margin-top: -5%
 
   }
 
   .h2{
     font-family: 'Pacifico', cursive;
-    font-size: 200%;
+    font-size: 150%;
     color: #52968b;
-    margin-left: 17%;
+    margin-left: 25%;
     margin-top: -5%
 
   }
@@ -522,7 +522,7 @@ body{
 
   .h1{
     font-family: 'Pacifico', cursive;
-    font-size: 350%;
+    font-size: 250%;
     color: #52968b;
     border-color: #52968b;
     margin-left: 35%;

@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Gochi+Hand|Pacifico|Shadows+Into+Light&display=swap');
-
+@media (min-width:1900px) and (max-width:2205px)  {
 .h1presentacion{
   font-family: 'Pacifico', cursive;
   font-size: 600%;
@@ -43,3 +43,562 @@
    margin-top: 1%;
 
 }
+
+.imagenGlobos{
+  width: 25%;
+  margin-left: 73%
+}
+
+}
+
+@media screen and (max-width:1632px) {
+.h1presentacion{
+  font-family: 'Pacifico', cursive;
+  font-size: 600%;
+  color: #b9c4ca;
+  margin-left: 20%;
+
+}
+
+.p{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 250%;
+  color: #b9c4ca;
+  margin-left: 20%;
+  margin-top: -5%;
+
+}
+
+.parrafo{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 200%;
+  color: #b9c4ca;
+  margin-left: 10%;
+  margin-top: -3%;
+  padding-top: 1%;
+
+}
+
+
+.img2presentacion{
+   width: 3%;
+   height: .5%;
+   margin-left: 48%;
+   margin-top: 5%;
+
+}
+
+.img2imagene{
+   width: 3%;
+   height: .5%;
+   margin-left: 40%;
+   margin-top: 1%;
+
+}
+
+.imagenGlobos{
+  width: 25%;
+  margin-left: 73%
+}
+
+}
+
+@media screen and (max-width:1366px) {
+.h1presentacion{
+  font-family: 'Pacifico', cursive;
+  font-size: 600%;
+  color: #b9c4ca;
+  margin-left: 20%;
+
+}
+
+.p{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 190%;
+  color: #b9c4ca;
+  margin-left: 20%;
+  margin-top: -5%;
+
+}
+
+.parrafo{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 190%;
+  color: #b9c4ca;
+  margin-left: 10%;
+  margin-top: -3%;
+  padding-top: 1%;
+
+}
+
+
+.img2presentacion{
+   width: 3%;
+   height: .5%;
+   margin-left: 48%;
+   margin-top: 9%;
+
+}
+
+.img2imagene{
+   width: 3%;
+   height: .5%;
+   margin-left: 40%;
+   margin-top: 1%;
+
+}
+
+.imagenGlobos{
+  width: 20%;
+  margin-left: 78%
+}
+
+}
+
+@media screen and (max-width:1024px) and (orientation:portrait) {
+.h1presentacion{
+  font-family: 'Pacifico', cursive;
+  font-size: 600%;
+  color: #b9c4ca;
+  margin-left: 20%;
+  margin-top: 20%
+
+}
+
+.p{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 190%;
+  color: #b9c4ca;
+  margin-left: 20%;
+  margin-top: 0%;
+
+}
+
+.parrafo{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 190%;
+  color: #b9c4ca;
+  margin-left: 10%;
+  margin-top: -3%;
+  padding-top: 2%;
+
+}
+
+
+.img2presentacion{
+   width: 5%;
+   height: 1.5%;
+   margin-left: 50%;
+   margin-top: 11%;
+
+}
+
+.img2imagene{
+   width: 3%;
+   height: .5%;
+   margin-left: 40%;
+   margin-top: 1%;
+
+}
+
+.imagenGlobos{
+  width: 40%;
+  margin-left: 55%;
+  margin-top: 35%;
+}
+
+}
+
+@media screen and (max-width:1024px) and (orientation:landscape)  {
+.h1presentacion{
+  font-family: 'Pacifico', cursive;
+  font-size: 450%;
+  color: #b9c4ca;
+  margin-left: 20%;
+
+}
+
+.p{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 150%;
+  color: #b9c4ca;
+  margin-left: 20%;
+  margin-top: -5%;
+
+}
+
+.parrafo{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 150%;
+  color: #b9c4ca;
+  margin-left: 10%;
+  margin-top: -3%;
+  padding-top: 1%;
+
+}
+
+
+.img2presentacion{
+   width: 3%;
+   height: .5%;
+   margin-left: 48%;
+   margin-top: 9%;
+
+}
+
+.img2imagene{
+   width: 3%;
+   height: .5%;
+   margin-left: 40%;
+   margin-top: 1%;
+
+}
+
+.imagenGlobos{
+  width: 20%;
+  margin-left: 78%;
+  margin-top: 2%
+}
+
+}
+
+@media screen and (max-width:768px) {
+.h1presentacion{
+  font-family: 'Pacifico', cursive;
+  font-size: 400%;
+  color: #b9c4ca;
+  margin-left: 20%;
+  margin-top: 5%;
+
+}
+
+.parrafo{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 160%;
+  color: #b9c4ca;
+  margin-left: 5%;
+  margin-top: -3%;
+  padding-top: 2%;
+
+}
+
+
+.img2presentacion{
+   width: 5%;
+   height: 1.5%;
+   margin-left: 50%;
+   margin-top: 35%;
+
+}
+
+.img2imagene{
+   width: 3%;
+   height: .5%;
+   margin-left: 40%;
+   margin-top: 1%;
+
+}
+
+.imagenGlobos{
+  width: 30%;
+  margin-left: 65%;
+  margin-top: 35%;
+}
+
+}
+
+@media screen and (max-width:812px) and (orientation:landscape)  {
+.h1presentacion{
+  font-family: 'Pacifico', cursive;
+  font-size: 250%;
+  color: #b9c4ca;
+  margin-left: 10%;
+
+}
+
+.parrafo{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 125%;
+  color: #b9c4ca;
+  margin-left: 5%;
+  margin-top: -4%;
+  padding-top: 1%;
+
+}
+
+
+.img2presentacion{
+   width: 3%;
+   height: .5%;
+   margin-left: 48%;
+   margin-top: 2%;
+
+}
+
+.img2imagene{
+   width: 3%;
+   height: .5%;
+   margin-left: 40%;
+   margin-top: -2%;
+
+}
+
+.imagenGlobos{
+  width: 20%;
+  margin-left: 77%;
+  margin-top: 2%
+}
+
+}
+
+@media screen and (max-width:414px) {
+
+  .h1presentacion{
+    font-family: 'Pacifico', cursive;
+    font-size: 200%;
+    color: #b9c4ca;
+    margin-left: 10%;
+    margin-top: 4%;
+
+  }
+
+  .parrafo{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 110%;
+    color: #b9c4ca;
+    margin-left: 4%;
+    margin-top: -3%;
+    padding-top: 1%;
+
+  }
+
+
+  .img2presentacion{
+     width: 7%;
+     height: 1%;
+     margin-left: 48%;
+     margin-top: 40%;
+
+  }
+
+
+
+  .imagenGlobos{
+    width: 40%;
+    margin-left: 55%;
+    margin-top: 37%;
+  }
+
+  }
+
+@media screen and (max-width:375px) {
+
+  .h1presentacion{
+    font-family: 'Pacifico', cursive;
+    font-size: 200%;
+    color: #b9c4ca;
+    margin-left: 10%;
+    margin-top: 10%;
+
+  }
+
+  .parrafo{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 110%;
+    color: #b9c4ca;
+    margin-left: 4%;
+    margin-top: -3%;
+    padding-top: 1%;
+
+  }
+
+
+  .img2presentacion{
+     width: 7%;
+     height: 1%;
+     margin-left: 48%;
+     margin-top: 10%;
+
+  }
+
+
+
+  .imagenGlobos{
+    width: 40%;
+    margin-left: 55%;
+    margin-top: 40%;
+  }
+
+  }
+
+  @media screen and (max-width:736px) and (orientation:landscape)  {
+  .h1presentacion{
+    font-family: 'Pacifico', cursive;
+    font-size: 200%;
+    color: #b9c4ca;
+    margin-left: 5%;
+
+  }
+
+  .parrafo{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 125%;
+    color: #b9c4ca;
+    margin-left: 3%;
+    margin-top: -4%;
+    padding-top: 1%;
+
+  }
+
+
+  .img2presentacion{
+     width: 3%;
+     height: .5%;
+     margin-left: 48%;
+     margin-top: -1%;
+
+  }
+
+  .img2imagene{
+     width: 3%;
+     height: .5%;
+     margin-left: 40%;
+     margin-top: -1%;
+
+  }
+
+  .imagenGlobos{
+    width: 22%;
+    margin-left: 77%;
+    margin-top: 2%
+  }
+
+  }
+
+  @media screen and (max-width:667px) and (orientation:landscape)  {
+  .h1presentacion{
+    font-family: 'Pacifico', cursive;
+    font-size: 200%;
+    color: #b9c4ca;
+    margin-left: 5%;
+
+  }
+
+  .parrafo{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 125%;
+    color: #b9c4ca;
+    margin-left: 3%;
+    margin-top: -4%;
+    padding-top: 1%;
+
+  }
+
+
+  .img2presentacion{
+     width: 3%;
+     height: .5%;
+     margin-left: 48%;
+     margin-top: -1%;
+
+  }
+
+  .img2imagene{
+     width: 3%;
+     height: .5%;
+     margin-left: 40%;
+     margin-top: -1%;
+
+  }
+
+  .imagenGlobos{
+    width: 15%;
+    margin-left: 80%;
+    margin-top: 15%
+  }
+
+  }
+
+  @media screen and (max-width:568px) and (orientation:landscape)  {
+  .h1presentacion{
+    font-family: 'Pacifico', cursive;
+    font-size: 180%;
+    color: #b9c4ca;
+    margin-left: 5%;
+
+  }
+
+  .parrafo{
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 105%;
+    color: #b9c4ca;
+    margin-left: 3%;
+    margin-top: -4%;
+    padding-top: 1%;
+
+  }
+
+
+  .img2presentacion{
+     width: 3%;
+     height: .5%;
+     margin-left: 48%;
+     margin-top: -3%;
+
+  }
+
+  .img2imagene{
+     width: 3%;
+     height: .5%;
+     margin-left: 40%;
+     margin-top: -1%;
+
+  }
+
+  .imagenGlobos{
+    width: 15%;
+    margin-left: 83%;
+    margin-top: 13%
+  }
+
+  }
+
+  @media screen and (max-width:320px) {
+
+    .h1presentacion{
+      font-family: 'Pacifico', cursive;
+      font-size: 200%;
+      color: #b9c4ca;
+      margin-left: 10%;
+      margin-top: 10%;
+
+    }
+
+    .parrafo{
+      font-family: 'Shadows Into Light', cursive;
+      font-size: 90%;
+      color: #b9c4ca;
+      margin-left: 2%;
+      margin-top: -3%;
+      padding-top: 1%;
+
+    }
+
+
+    .img2presentacion{
+       width: 7%;
+       height: 1%;
+       margin-left: 48%;
+       margin-top: 20%;
+
+    }
+
+
+
+    .imagenGlobos{
+      width: 40%;
+      margin-left: 55%;
+      margin-top: 51%;
+    }
+
+    }
